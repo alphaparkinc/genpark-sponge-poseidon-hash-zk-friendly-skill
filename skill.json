@@ -1,0 +1,13 @@
+{
+  "name": "genpark-sponge-poseidon-hash-zk-friendly-skill",
+  "version": "1.0.0",
+  "description": "Poseidon algebraic sponge hash function optimized for zero-knowledge arithmetic circuits with MDS matrix diffusion and power S-boxes.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "poseidon-hash",
+    "zk-friendly-hash",
+    "sponge-construction",
+    "algebraic-hash"
+  ]
+}
